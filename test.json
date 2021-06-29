@@ -11,7 +11,7 @@
     "ad_unit_banner_rect": "",
     "ad_unit_banner_rect_intro_last": "",
     "tapdaq_banner_enable" : "true",
-    "tapdaq_inter_enable" : "false",
+    "tapdaq_inter_enable" : "true",
     "tapdaq_app_id": "60d4f81486c31c4e07c1069f",
     "tapdaq_client_key": "f56ee237-48ae-47ca-854a-0cbeef2adea7",
     "tapdaq_placement_tag_banner": "default",
