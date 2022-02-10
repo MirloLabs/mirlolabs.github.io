@@ -19,7 +19,7 @@
     "max_inter_id": "1e6bbb082033452b",
     "max_banner_id2": "",
     "max_inter_id2": "1e6bbb082033452b",
-    "tapdaq_banner_enable" : "true",
+    "tapdaq_banner_enable" : "false",
     "tapdaq_inter_enable" : "true",
     "tapdaq_app_id": "620395ad08fe6c2d735d78ea",
     "tapdaq_client_key": "f56ee237-48ae-47ca-854a-0cbeef2adea7",
